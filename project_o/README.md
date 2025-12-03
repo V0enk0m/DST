@@ -1,17 +1,17 @@
 # Проект 0. Игра "Угадай число"
 
 ## Оглавление
-[1. Описание проекта]()
-[2. Какой кейс решаем?]()
-[3. Краткая информация о данных]()
-[4. Этапы работы над проектом]()
-[5. Результат]()
-[6. Выводы]()
+[1. Описание проекта](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Какой-кейс-решаем?)
+[3. Краткая информация о данных](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Результат)
+[6. Выводы](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Выводы)
 ### Описание проекта
 Угадать загаданное компьютером число за мнимальное число попыток
 
-:arrow_up:[к оглавлениею]()
-### Какой кейс решаем
+:arrow_up:[к оглавлению](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Оглавление)
+### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
 
 **Условия соревнования:**
@@ -27,16 +27,16 @@
 ### Краткая информация о данных
 ---
 
-:arrow_up:[к оглавлениею]()
+:arrow_up:[к оглавлению](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Оглавление)
 ### Этапы работы над проектом
 ---
 
-:arrow_up:[к оглавлениею]()
+:arrow_up:[к оглавлению](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Оглавление)
 ### Результат
 ---
 
-:arrow_up:[к оглавлениею]()
+:arrow_up:[к оглавлению](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Оглавление)
 ### Выводы
 ---
 
-:arrow_up:[к оглавлениею]()
+:arrow_up:[к оглавлению](https://github.com/V0enk0m/DST/blob/main/project_o/README.md#Оглавление)
